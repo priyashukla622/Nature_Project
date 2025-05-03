@@ -19,7 +19,6 @@ body{
     background:linear-gradient(to right,#041308,#0b3317) ;
 }
 
-
 .left-text{
     flex-basis: 50%;
     margin-left: -5rem;
@@ -70,7 +69,6 @@ body{
     background-position: center;
     box-shadow: 0 0 4px #fff;
 }
-
 @media (max-width:1024px){
     .container{
         flex-direction: column;
